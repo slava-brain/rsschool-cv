@@ -8,7 +8,7 @@
    * Telegram: [Slava Lyutkevich](https://t.me/BrainBelarus)
 
 ## About me
-I am actively studying HTML, CSS and JavaScript. I easily find common ground in an unfamiliar situation. I am striving to get a position of **Junior JavaScript Developer**.
+I have 9 months of experience as a Front-End Developer at [*instinctools](https://instinctools.com). I am actively studying HTML, CSS and JavaScript. I easily find common ground in an unfamiliar situation.
 
 ## Skills
 * HTML5, CSS3, SASS, JavaScript, PHP
@@ -33,3 +33,16 @@ function getCount(str) {
   return vowelsCount;
 }
 ```
+
+## Experience
+* January 2022 - Now | **Front-End Developer** at [*instinctools](https://instinctools.com)
+* [JavaScript Tutorial](https://learn.javascript.ru/)
+* "ReactJS - Samurai Way" on [YouTube](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8)
+
+## Education
+Yanka Kupala State University of Grodno, Information Resource Management
+
+## Languages
+* **English** - A2
+* **Russian** - native
+* **Belorussian** - native
