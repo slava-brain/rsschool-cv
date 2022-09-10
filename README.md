@@ -1,2 +1,1 @@
-# rsschool-cv
-CV for RSSchool
+https://slava-brain.github.io/rsschool-cv/cv
