@@ -35,7 +35,7 @@ function getCount(str) {
 ```
 
 ## Experience
-* January 2022 - Now | **Front-End Developer** at [*instinctools](https://instinctools.com)
+* January 2022 - Now **Front-End Developer** at [*instinctools](https://instinctools.com)
 * [JavaScript Tutorial](https://learn.javascript.ru/)
 * "ReactJS - Samurai Way" on [YouTube](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8)
 
